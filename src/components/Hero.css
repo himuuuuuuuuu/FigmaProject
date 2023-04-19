@@ -1,0 +1,9 @@
+.hero_container {
+    padding: 47px 89px 0px 59px;
+}
+
+.hero_container img {
+    max-width: 1325px;
+    max-height: 652px;
+
+}

@@ -1,0 +1,12 @@
+.socialmedia {
+    max-width:1057px;
+    margin:auto;
+    display:flex;
+    justify-content: space-between;
+    padding: 53px 0px 57px 0px;
+}
+
+.socialmediaicons{
+    display:flex;
+    gap:22px;
+}

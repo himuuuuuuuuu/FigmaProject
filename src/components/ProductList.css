@@ -1,0 +1,17 @@
+.Product_section {
+    margin-top: 34px;
+}
+.Product_section_container {
+   max-width: 1400px;
+    margin: 0 auto;
+}
+.Product_section_container h2 {
+    font-size: 24px;
+    font-weight: 600;
+}
+.Product_list {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    padding: 10px;
+}
